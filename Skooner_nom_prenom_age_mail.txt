@@ -1,0 +1,15 @@
+Skooner 
+ nom		prenom		age		mail
+
+Martin		Alix		35		Martin.Alix@Gmail.com
+Pioche		Georges		42		Pioche.Georges@gmail.com
+Renault		Lucile		24		Renault.Lucile@yahoo.fr	
+Ducoin		Bertrand	27		Ducoin.Bertrand@gmail.com
+Chantoux	Pierre		34		Chantoux.Pierre@yahoo.fr
+Renier		Cecile		21		Renier.Cecile@yahoo.fr
+nourtaux	Maya		24		Nourtaux.Maya@gmail.com
+Elhabab		Mehdi		26		Elhabab.Mehdi@hotmail.fr
+Fa		Mulan		25		Fa.Mulan@gmail.com
+Ramos		Marie		27		Ramos.Marie@gmail.com
+Fritata		Julio		33		Fritata.Julio@yahoo.fr
+
